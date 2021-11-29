@@ -1,0 +1,6 @@
+.booksList {
+    background-color: grey;
+    height: calc(100vh - 300px);
+    text-align: center;
+    color: #fff;
+}
